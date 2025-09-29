@@ -9,7 +9,7 @@
 
 🎈 I made [Helium](https://github.com/daz-codes/helium) an ultra-light library that makes HTML interactive
 
-💎 I wrote [Ruby Dooby Doo](https://github.com/daz-codes/rubydoobydoo) to make JS more Ruby
+💎 I wrote [Ruby Doo](https://github.com/daz-codes/rubydoo) to make JS more Ruby
 
 🧪 I also enjoy coding in Elixr & Haskell
 
