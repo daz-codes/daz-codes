@@ -3,27 +3,29 @@
 
 ⭐ I'm a software engineer at Yozu
 
-⭐ I 💜 coding in Ruby & JavaScript
+👨🏼‍💻 I 💜 coding in Ruby & JavaScript
 
 📘(I even wrote a [couple of books](https://www.amazon.co.uk/JavaScript-Novice-Ninja-Darren-Jones-ebook/dp/B0C1556VYB/) [about JavaScript](https://www.amazon.co.uk/Learn-Code-JavaScript-Darren-Jones/dp/1925836401))
 
-⭐ I wrote [Ruby Dooby Doo](https://github.com/daz-codes/rubydoobydoo) to make JS more Ruby
+🎈 I made [Helium](https://github.com/daz-codes/helium) an ultra-light library that makes HTML interactive
 
-⭐ I also enjoy coding in Elixr & Haskell
+💎 I wrote [Ruby Dooby Doo](https://github.com/daz-codes/rubydoobydoo) to make JS more Ruby
+
+🧪 I also enjoy coding in Elixr & Haskell
 
 🛤️ I use Rails to build apps & love using Hotwire
 
-⭐ I wrote a Ruby Gem that [adds registration pages to the Rails Authentication Generator](https://github.com/daz-codes/authentication_with_registration_generator)
+💎 I wrote a Ruby Gem that [adds registration pages to the Rails Authentication Generator](https://github.com/daz-codes/authentication_with_registration_generator)
 
-📕 I also wrote [a book about the Sinatra microframework](https://www.amazon.co.uk/Jump-Start-Sinatra-Darren-Jones/dp/0987332147/))
+📕 I also wrote [a book about the Sinatra microframework](https://www.amazon.co.uk/Jump-Start-Sinatra-Darren-Jones/dp/0987332147/)
 
 ⭐ I made [Nanny State](https://github.com/daz-codes/Nanny-State) - a teeny tiny alternative to React
 
-⭐ I also created [⚡️Surge⚡️](https://github.com/daz-codes/surge) - a micro framework for adding reactivity to your HTML
+⚡️ I also created [Surge](https://github.com/daz-codes/surge) - a micro framework for adding reactivity to your HTML
  
-⭐ I developed the 🍏 [Fruit & Veg Cipher](https://fruit-and-veg-cipher.onrender.com) 🥦  Game
+🍏 I developed the [Fruit & Veg Cipher](https://fruit-and-veg-cipher.onrender.com)  Game 🥦
 
-⭐ I wrote a CSS framework called [Dragon](https://github.com/daz-codes/dragon) 🐲 that's a teeny tiny alternative to Bootstrap and Tailwind
+🐲 I wrote a CSS framework called [Dragon](https://github.com/daz-codes/dragon)  that's a teeny tiny alternative to Bootstrap and Tailwind
 
 📝 I've written [lots of articles for SitePoint](https://www.sitepoint.com/author/djones/)
 
